@@ -1,0 +1,13 @@
+body {
+    padding-top: 70px; /* Añade un espacio en la parte superior para que el navbar no se superponga al contenido */
+  }
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #2a2a2a;
+  }
+.logo {
+  width: 50%;
+  height: 75%;
+}
